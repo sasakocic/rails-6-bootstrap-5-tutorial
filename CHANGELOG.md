@@ -12,6 +12,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2022-10-16 19:00
 ### Added
+- executed touch app/frontend/js/bootstrap_js_files.js
+- executed mkdir app/frontend/js
+- executed mkdir app/frontend/js
+- executed yarn add @popperjs/core@2
+- executed yarn add bootstrap@5
 - added CHANGELOG.md
 - executed rails db:migrate && rails db:test:prepare
 - updated rspec configuration
