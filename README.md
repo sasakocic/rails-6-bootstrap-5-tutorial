@@ -1,5 +1,7 @@
 # README
 
+[Rails 6, Bootstrap 5 : a tutorial | BootrAils](https://www.bootrails.com/blog/rails-bootstrap-tutorial/)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
